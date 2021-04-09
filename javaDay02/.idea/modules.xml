@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ChuanDay003/ChuanDay003.iml" filepath="$PROJECT_DIR$/../ChuanDay003/ChuanDay003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ChuanDay004/ChuanDay004.iml" filepath="$PROJECT_DIR$/../ChuanDay004/ChuanDay004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ChuanDay005/ChuanDay005.iml" filepath="$PROJECT_DIR$/../ChuanDay005/ChuanDay005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IDEA-coad02/arrayList/mArrayList/mArrayList.iml" filepath="$PROJECT_DIR$/../../IDEA-coad02/arrayList/mArrayList/mArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IDEA-coad02/arrayList/mStudentManager/mStudentManager.iml" filepath="$PROJECT_DIR$/../../IDEA-coad02/arrayList/mStudentManager/mStudentManager.iml" />
+    </modules>
+  </component>
+</project>
