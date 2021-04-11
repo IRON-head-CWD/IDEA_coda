@@ -9,8 +9,8 @@ public class doubleArray {
             sum += arr[i];
         }
         System.out.println(sum);
-        double valueChu = sum.divide(arr.length-1).doubleValue();
-        System.out.println("valueChu = " + valueChu);
+     //   double valueChu = sum.divide(arr.length-1).doubleValue();
+      //  System.out.println("valueChu = " + valueChu);
         System.out.println();
     }
 }
