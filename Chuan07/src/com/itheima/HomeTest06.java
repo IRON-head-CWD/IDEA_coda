@@ -5,7 +5,7 @@ import java.util.Collection;
 import java.util.Iterator;
 
 public class HomeTest06 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception{
         /*
         请定义一个 Collection 类型的集合，存储以下字符串：
 “JavaEE 企业级开发指南”，
@@ -19,7 +19,7 @@ public class HomeTest06 {
 如果书名中包含“Oracle”，则删掉此书。删掉后，遍历集合，打印所有书名
 
          */
-        Collection<String> c=new ArrayList<>();
+        Collection<String> c = new ArrayList<>();
         c.add("JavaEE 企业级开发指南");
         c.add("Oracle 高级编程");
         c.add("MySQL 从入门到精通");
@@ -27,14 +27,21 @@ public class HomeTest06 {
         System.out.println("-----1.迭代器------");
         Iterator<String> iterator = c.iterator();
         while (iterator.hasNext()) {
-            String next =  iterator.next();
+            String next = iterator.next();
+            if(next.length()<10){
+                c.remove(next);
+            }
+            System.out.println(next);
         }
         System.out.println("---2.增强for循环-----");
-        for(String s:c){
+        for (String s : c) {
             System.out.println(s);
         }
         System.out.println("=====3.Lambda======");
-        c.forEach(s-> System.out.println(s));
+        c.forEach(s -> System.out.println(s));
+        //deleat little ten byte of things.
+
 
     }
 }
+
