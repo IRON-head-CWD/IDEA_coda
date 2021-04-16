@@ -17,6 +17,7 @@ public class Demo {
             System.out.println("丈夫:" + key + ",媳妇:" + value);
         }
         System.out.println("---[2]entrySet---");
+        //Map.Entry快速输入方式
         Set<Map.Entry<String,String>> entries=map.entrySet();
         for(Map.Entry<String,String>entry:entries){
             String key=entry.getKey();

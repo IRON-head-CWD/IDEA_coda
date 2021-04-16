@@ -28,7 +28,7 @@ public class Demo01 {
         for (Map.Entry<Character, Integer> entry : entries) {
             Character key = entry.getKey();
             Integer value = entry.getValue();
-            System.out.println("字符:" + key + ",出现了" + value + "次");35+-
+            System.out.println("字符:" + key + ",出现了" + value + "次");
         }
     }
 }
