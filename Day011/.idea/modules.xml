@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Day11/Day11.iml" filepath="$PROJECT_DIR$/Day11/Day11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day12/Day12.iml" filepath="$PROJECT_DIR$/Day12/Day12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaSEDay14/JavaSEDay14.iml" filepath="$PROJECT_DIR$/../JavaSEDay14/JavaSEDay14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SubwayManager/SubwayManager.iml" filepath="$PROJECT_DIR$/../SubwayManager/SubwayManager.iml" />
     </modules>
   </component>
 </project>
