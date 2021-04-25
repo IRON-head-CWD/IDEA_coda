@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../JavaSEDay14/JavaSEDay14.iml" filepath="$PROJECT_DIR$/../JavaSEDay14/JavaSEDay14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaSEDay15/JavaSEDay15.iml" filepath="$PROJECT_DIR$/../JavaSEDay15/JavaSEDay15.iml" />
       <module fileurl="file://$PROJECT_DIR$/../SubwayManager/SubwayManager.iml" filepath="$PROJECT_DIR$/../SubwayManager/SubwayManager.iml" />
     </modules>
   </component>
